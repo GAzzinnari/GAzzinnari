@@ -26,7 +26,9 @@ Also quite enjoy building REST APIs in .NET framework & NET Core.
 - NuGet for dependency management.
 - Work with NancyFX, XUnit, Newtonsoft, Moq.
 - Microservices architecture, scalable, independent, easier to maintain APIs, hosted on cloud platform.
+- Testing: SoapUI, postman.
 
 #### Other skills:
 - Experience working under Agile (Scrum) framework.
 - Knowledge on Azure as collaboration tool (boards) and for CI/CD processes.
+- UNIX terminal / bash scripting.
