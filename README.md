@@ -1,6 +1,16 @@
 ### Gabriel Azzinnari - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5QnSPr63mP3tzEuQbXFv5yDmqEk7CJ71OAg&usqp=CAU" alt="iOS" width="20" height="20"/> Mobile App Developer
-<hr>
+<br>
 
+<a href="https://www.linkedin.com/in/gabriel-azzinnari-06a174117/">
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"/>
+</a>
+<a href="https://stackoverflow.com/users/13556354/gabriel-azzinnari">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZlR1s98VVQosxTOVPJIKy0HfrPL8N6PngaA&usqp=CAU" width="30" height="30"/>
+</a>
+<a href="mailto:gazzinnari.contact@gmail.com">
+  <img src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" width="30" height="30"/>
+</a>
+<hr>
 Hi! 😄 I'm a developer, passionate about building native iOS applications that provide great value and awesome experience to end users, take pride in building extensible, robust code, that follows great coding standards.
 Also quite enjoy building REST APIs in .NET framework & NET Core.
 
