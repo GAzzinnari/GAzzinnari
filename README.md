@@ -28,11 +28,14 @@ Also quite enjoy building REST APIs in .NET framework & NET Core.
 - CocoaPods for managing dependencies.
 - Proficient in Git for code versioning.
 - REST APIs - Consume (Vanilla, Alamofire) & develop.
+- Architecture patterns MVC, MVVM-C, clean & organized code.
+- Local storage and high efficiency operations through concurrency. Good memory management to avoid leaks.
+- Creating clean UI / UX.
 - Building testable applications, following BDD, using frameworks like Quick & Nimble.
-- Design patterns, architecture patterns.
 - Experience in all development stages, from code to release.
+- Experience submitting to store, managing versions, dealing with provisioning profiles, certificates.
 ##### (API)
-- .NET framework / NET Core / C#
+- .NET framework / NET Core / C#.
 - NuGet for dependency management.
 - Work with NancyFX, XUnit, Newtonsoft, Moq.
 - Microservices architecture, scalable, independent, easier to maintain APIs, hosted on cloud platform.
